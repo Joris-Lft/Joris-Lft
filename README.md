@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm <a href="https://joris-lefait.com" target="_blank">Joris</a>, fullstack developer from France.
+<p align="left">I'm <a href="https://joris-lefait.notion.site/Joris-Lefait-72684b707a3444bab9fc9c79c3fbacb1" target="_blank">Joris</a>, fullstack developer from France.
 <br>
 <br>
 🔭 I’m working as web developer.<br>
@@ -25,57 +25,35 @@
 
 ###
 
-<div align="left">
+#### Frontend
 
-<h4>Frontend</h4>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/Javascript-yellow" alt="Javascript"/> </a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/Typescript-blue" alt="Typescript"/> </a>
- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/Sass-pink" alt="Sass"/> </a>
+[![Javascript](https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Typescript](https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Sass](https://img.shields.io/badge/Sass-pink?logo=sass&logoColor=white)](https://sass-lang.com)
 
-<h4>Backend</h4>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/Bash-black" alt="Bash"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/PostgreSQL-darkblue" alt="PostgreSQL"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/Python-blue" alt="Python"/> </a>
+#### Backend
 
-<h4>Frameworks</h4>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/React-blue" alt="React"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/NextJS-grey" alt="NextJS"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/ReactNative-blue" alt="ReactNative"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/NodeJS-green" alt="NodeJS"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Express-grey" alt="Express"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/Django-green" alt="Django"/> </a> 
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/Jest-grey" alt="Jest"/> </a>
+[![Bash](https://img.shields.io/badge/Bash-black?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-darkblue?logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)](https://www.python.org)
 
-<h4>Tools</h4>
-<a href="https://www.github.com/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/Github-black" alt="Github"/> </a> 
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/Gitlab-orange" alt="Gitlab"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/Docker-blue" alt="Docker"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Git-red" alt="Git"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/Postman-orange" alt="Postman"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/VSCode-blue" alt="VSCode"/> </a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/npm-red" alt="npm"/> </a>
-<a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/yarn-blue" alt="yarn"/> </a>
-</div>
+#### Frameworks
 
-###
+[![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)](https://reactjs.org/)
+[![NextJS](https://img.shields.io/badge/NextJS-grey?logo=next.js&logoColor=white)](https://nextjs.org/)
+[![ReactNative](https://img.shields.io/badge/ReactNative-blue?logo=react&logoColor=white)](https://reactnative.dev/)
+[![NodeJS](https://img.shields.io/badge/NodeJS-green?logo=node.js&logoColor=white)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/Express-grey?logo=express&logoColor=white)](https://expressjs.com)
+[![Django](https://img.shields.io/badge/Django-green?logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Jest](https://img.shields.io/badge/Jest-grey?logo=jest&logoColor=white)](https://jestjs.io)
+
+#### Tools
+
+[![Github](https://img.shields.io/badge/Github-black?logo=github&logoColor=white)](https://www.github.com/)
+[![Gitlab](https://img.shields.io/badge/Gitlab-orange?logo=gitlab&logoColor=white)](https://about.gitlab.com/)
+[![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)](https://git-scm.com/)
+[![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white)](https://postman.com)
+[![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![npm](https://img.shields.io/badge/npm-red?logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![yarn](https://img.shields.io/badge/yarn-blue?logo=yarn&logoColor=white)](https://yarnpkg.com/)
